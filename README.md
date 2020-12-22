@@ -1,3 +1,5 @@
+You can checkout the application by clicking [here](https://vickydaiya.shinyapps.io/covid19/)
+
 This project makes plots for COVID19 data in India.  
 
 The dataset for this project can be downloaded from [here](https://api.covid19india.org/csv/latest/case_time_series.csv)  
